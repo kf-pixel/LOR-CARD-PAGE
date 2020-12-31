@@ -1,2 +1,2 @@
-# LOR-GITHUBPAGE
+# LOR Card Creator GitHub Page
  alt host 
