@@ -1,0 +1,16 @@
+{
+"companyName": "KF-Pixel",
+"productName": "Legends of Runeterra Card Creator",
+"productVersion": "0.85",
+"dataUrl": "LOR_web.data.unityweb",
+"wasmCodeUrl": "LOR_web.wasm.code.unityweb",
+"wasmFrameworkUrl": "LOR_web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.13f1"
+}
